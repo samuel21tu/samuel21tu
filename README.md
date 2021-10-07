@@ -1,9 +1,9 @@
 Oi!!EU SOU SAMUEL NASCIMENTO  EU ESTOU ESTUDANDO JAVASCRIPT E TENHO 14 ANOS
 
 <div align="center">
-  <a href="https://github.com/samuel21tu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelNascimento&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelNascimento&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelNascimento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

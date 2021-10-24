@@ -7,9 +7,9 @@ Oi!!EU SOU SAMUEL NASCIMENTO  EU ESTOU ESTUDANDO JAVASCRIPT E TENHO 14 ANOS
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="samuel21tu-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="samuel21tu-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="samuel21tu-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="samuel21tu-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="samuel21tu-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  
 </div>
 <div>

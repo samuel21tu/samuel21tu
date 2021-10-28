@@ -8,8 +8,11 @@ Oi!!EU SOU SAMUEL NASCIMENTO  EU ESTOU ESTUDANDO JAVASCRIPT E TENHO 14 ANOS
   
   <div style="display: inline_block"><br>
 <img align="center" alt="samuel21tu-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-									<img align="center" alt="samuel21tu-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-									<img align="center" alt="samuel21tu-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="samuel21tu-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="samuel21tu-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="samuel21tu-react" height="70" width="70" src="https://programadorbr.com/static/media/React.56d08fb9.png"><br>
+<img align="center" alt="samuel21tu-react" height="70" width="70" src="https://programadorbr.com/static/media/Bootstrap.2e77467b.png">
+<img align="center" alt="samuel21tu-react" height="70" width="70" src="https://programadorbr.com/static/media/JQuery.cb699ea6.png">
  
 </div>
 <div>

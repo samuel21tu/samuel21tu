@@ -1,6 +1,7 @@
 Oi!!EU SOU SAMUEL NASCIMENTO  EU ESTOU ESTUDANDO JAVASCRIPT E TENHO 14 ANOS
 
 <div align="center">
+    <a href="https://github.com/samuel21tu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel21tu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel21tu&layout=compact&langs_count=7&theme=dark"/>
 </div>

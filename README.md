@@ -1,5 +1,5 @@
 # 🧑🏽‍💻 Samuel Nascimento Fernandes
-Olá!!Eu sou Samuel Nascimento, estou estudando C++ e me graduando em ADS na UFRN, tenho 17 anos, 
+Olá! Eu sou Samuel Nascimento, tenho 17 anos, Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UFRN.  
   <div style="display: inline_block">
 <img align="center" alt="samuel21tu-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="samuel21tu-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -8,9 +8,9 @@ Olá! Eu sou Samuel Nascimento, tenho 17 anos, Atualmente estou cursando Anális
 <br><br>  
 </div>
 <div>
-  <a href="https://www.instagram.com/samuel321fernandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:samuel321fernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/samuel-nascimento-fernandes-940158269/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a> 
+  <a href="https://www.instagram.com/samuel321fernandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href = "mailto:samuel321fernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+   <a href="https://www.linkedin.com/in/samuel-nascimento-fernandes-940158269/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 ## 📊 Estatísticas
 

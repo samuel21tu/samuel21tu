@@ -3,7 +3,7 @@ Olá!!Eu sou Samuel Nascimento Fernandes, estou estudando C++ e me graduando em 
 <div align="center">
     <a href="#">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuel21tu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="1500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel21tu&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel21tu&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>

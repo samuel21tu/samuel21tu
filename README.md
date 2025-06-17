@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Samuel Nascimento Fernandes
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1+#🧑🏽‍💻Eu+sou+Samuel+Nascimento+Fernandes+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1+🧑🏽‍💻Eu+sou+Samuel+Nascimento+Fernandes+%F0%9F%91%8B" alt="Typing SVG" />
 
 Olá! Eu sou Samuel Nascimento, tenho 17 anos, Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UFRN.  
   <div style="display: inline_block">

@@ -6,10 +6,6 @@ Olá! Sou Samuel Fernandes um entusiasta da tecnologia e estudante de atualmente
 <img align="center" alt="R" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
 <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 <img align="center" alt="Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
-
-          
-
-
 <br><br>  
 </div>
 <div>

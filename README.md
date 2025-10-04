@@ -17,9 +17,12 @@ Olá! Sou Samuel Fernandes um entusiasta da tecnologia e estudante de atualmente
 
 <div align="center">
     <a href="#">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuel21tu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel21tu&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ![Snake animation](https://github.com/samuel21tu/samuel21tu/blob/output/github-contribution-grid-snake.svg)
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuel21tu/samuel21tu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuel21tu/samuel21tu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samuel21tu/samuel21tu/output/github-contribution-grid-snake.svg">
+</picture>
 </div

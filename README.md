@@ -2,8 +2,10 @@
 Olá! Sou Samuel Fernandes um entusiasta da tecnologia e estudante de atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte (UFRN). Desde que comecei a trilhar o caminho da programação, achei incrivel a forma como a tecnologia pode transformar o mundo e resolver problemas complexos. <br> <br>Neste perfil, você encontrará meus projetos acadêmicos e pessoais, onde aplico e experimento com diferentes linguagens e frameworks. Sinta-se à vontade para explorar e entrar em contato!  <div style="display: inline_block">
 
 <img align="center" alt="C++" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 <img align="center" alt="Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Ts" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="center" alt="Angular" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 <img align="center" alt="Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
 <img align="center" alt="R" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">

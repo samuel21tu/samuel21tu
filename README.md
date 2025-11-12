@@ -9,8 +9,6 @@ Olá! Sou Samuel Fernandes um entusiasta da tecnologia e estudante de atualmente
 <img align="center" alt="Angular" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 <img align="center" alt="Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
 <img align="center" alt="R" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
-
-
 <br><br>  
 </div>
 <div>
